@@ -5,4 +5,4 @@ website: https://missing.csail.mit.edu/
 
 > The real value of these notes is just to regurgitate vague concepts because they are like a mental handhold. Once you get a grip of something using language and taking it down that grip feels more secure somehow.
 
-I also skipped some exercises which are for tool usage instead of a concept.
+I also skipped some exercises which are for tool usage.
